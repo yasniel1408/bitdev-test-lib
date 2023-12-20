@@ -1,0 +1,85 @@
+2023-12-19T18:30:45.188Z 33650 create node hello-world --scope test-organization-bit.my-scope, started
+2023-12-19T18:30:45.337Z 33650 create node hello-world --scope test-organization-bit.my-scope, failed
+2023-12-19T18:31:09.289Z 33771 create react hello-world --scope test-organization-bit.my-scope, started
+2023-12-19T18:31:44.953Z 33771 create react hello-world --scope test-organization-bit.my-scope, succeeded
+2023-12-19T18:32:15.135Z 33953 init --scope test-organization-bit.my-scope, started
+2023-12-19T18:33:31.505Z 34073 start, started
+2023-12-19T18:34:25.917Z 34257 start, started
+2023-12-19T18:36:08.490Z 34431 tag, started
+2023-12-19T18:36:41.379Z 34431 tag, succeeded
+2023-12-19T18:36:48.410Z 34740 export, started
+2023-12-19T18:37:03.566Z 34740 export, succeeded
+2023-12-19T18:39:28.420Z 35425 compile, started
+2023-12-19T18:39:30.016Z 35425 compile, succeeded
+2023-12-19T18:39:36.207Z 35461 export, started
+2023-12-19T18:39:36.450Z 35461 export, succeeded
+2023-12-19T18:54:36.950Z 36344 start, started
+2023-12-20T12:20:26.286Z 41678 export, started
+2023-12-20T12:20:26.530Z 41678 export, succeeded
+2023-12-20T12:21:04.789Z 41732 tag, started
+2023-12-20T12:21:07.751Z 41732 tag, succeeded
+2023-12-20T12:21:12.956Z 41835 export, started
+2023-12-20T12:21:17.027Z 41835 export, succeeded
+2023-12-20T12:23:58.837Z 42110 install, started
+2023-12-20T12:24:04.093Z 42110 install, succeeded
+2023-12-20T12:24:06.212Z 42171 start, started
+2023-12-20T12:25:05.075Z 42366 start, started
+2023-12-20T12:26:47.792Z 42553 install, started
+2023-12-20T12:26:52.776Z 42553 install, succeeded
+2023-12-20T12:26:56.300Z 42620 start, started
+2023-12-20T12:55:19.481Z 44091 start, started
+2023-12-20T13:28:44.171Z 5327 start, started
+2023-12-20T13:30:12.753Z 5463 create react hello-world --scope test-organization-bit.my-scope2, started
+2023-12-20T13:30:12.980Z 5463 create react hello-world --scope test-organization-bit.my-scope2, failed
+2023-12-20T13:30:20.817Z 5566 create react hello-world --scope test-organization-bit.my-scope2, started
+2023-12-20T13:30:21.023Z 5566 create react hello-world --scope test-organization-bit.my-scope2, failed
+2023-12-20T13:38:37.191Z 5865 create react hello-world2 --scope test-organization-bit.my-scope2, started
+2023-12-20T13:39:08.527Z 5865 create react hello-world2 --scope test-organization-bit.my-scope2, succeeded
+2023-12-20T13:39:30.340Z 6052 tag, started
+2023-12-20T13:39:33.187Z 6052 tag, succeeded
+2023-12-20T13:39:46.963Z 6089 export, started
+2023-12-20T13:39:48.247Z 6089 export, failed
+2023-12-20T13:40:50.896Z 6141 export, started
+2023-12-20T13:40:51.733Z 6141 export, failed
+2023-12-20T13:41:27.193Z 6272 export, started
+2023-12-20T13:41:28.291Z 6272 export, failed
+2023-12-20T13:43:03.766Z 6359 use hello-world2, started
+2023-12-20T13:43:03.935Z 6359 use hello-world2, succeeded
+2023-12-20T13:43:19.594Z 6466 tag, started
+2023-12-20T13:43:19.886Z 6466 tag, succeeded
+2023-12-20T13:43:24.721Z 6507 export, started
+2023-12-20T13:43:26.044Z 6507 export, failed
+2023-12-20T13:47:29.525Z 6633 install, started
+2023-12-20T13:47:34.278Z 6633 install, succeeded
+2023-12-20T13:47:43.256Z 6766 tag, started
+2023-12-20T13:47:43.555Z 6766 tag, succeeded
+2023-12-20T13:49:18.732Z 6832 status, started
+2023-12-20T13:49:19.220Z 6832 status, succeeded
+2023-12-20T13:50:09.122Z 6954 status, started
+2023-12-20T13:50:09.584Z 6954 status, succeeded
+2023-12-20T13:50:32.287Z 7005 status, started
+2023-12-20T13:50:32.799Z 7005 status, succeeded
+2023-12-20T13:50:36.692Z 7111 tag, started
+2023-12-20T13:50:36.944Z 7111 tag, succeeded
+2023-12-20T13:51:46.376Z 7176 tag, started
+2023-12-20T13:51:47.794Z 7176 tag, succeeded
+2023-12-20T13:51:53.878Z 7278 status, started
+2023-12-20T13:51:54.383Z 7278 status, succeeded
+2023-12-20T13:52:14.036Z 7323 status, started
+2023-12-20T13:52:15.369Z 7323 status, succeeded
+2023-12-20T13:52:19.002Z 7359 tag, started
+2023-12-20T13:52:19.830Z 7359 tag, succeeded
+2023-12-20T13:52:58.159Z 7403 start, started
+2023-12-20T13:54:34.645Z 7621 install, started
+2023-12-20T13:54:40.392Z 7621 install, failed
+2023-12-20T13:56:02.062Z 7700 install, started
+2023-12-20T13:56:24.815Z 7700 install, succeeded
+2023-12-20T13:56:30.099Z 7854 status, started
+2023-12-20T13:56:30.632Z 7854 status, succeeded
+2023-12-20T13:56:49.661Z 7906 export, started
+2023-12-20T13:56:55.321Z 7906 export, succeeded
+2023-12-20T13:57:08.112Z 7948 tag, started
+2023-12-20T13:57:08.391Z 7948 tag, succeeded
+2023-12-20T13:57:12.569Z 7978 export, started
+2023-12-20T13:57:12.771Z 7978 export, succeeded
+2023-12-20T14:12:09.065Z 8738 start, started
