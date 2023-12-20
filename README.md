@@ -6,7 +6,9 @@
 bit login
 ```
 
-## 2- Crear un workspace para la liberia y crear tu primera libreria
+## 2- Crear un workspace para la liberia y crear el scope
+
+Si queremos crear varios scope simplemente corremos este comando con los nombres correspondientes.
 
 ```
 bit init
