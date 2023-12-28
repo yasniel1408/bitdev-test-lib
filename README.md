@@ -21,6 +21,8 @@ bit create react hello-world --scope test-organization-bit.my-scope
 
 ```
 bit tag
+o
+bit tag --message "mensaje"
 ```
 
 ## 5- Exportar la biblioteca a bit.cloud
