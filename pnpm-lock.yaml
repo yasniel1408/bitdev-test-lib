@@ -271,7 +271,7 @@ importers:
         version: 1.0.7(@types/react@18.2.23)(react@18.2.0)
       '@test-organization-bit/my-scope.hello-world':
         specifier: workspace:*
-        version: file:my-scope/hello-world(react@18.2.0)
+        version: file:remote-scope/hello-world(react@18.2.0)
       '@test-organization-bit/my-scope2.hello-world2':
         specifier: workspace:*
         version: file:my-scope2/hello-world2(react@18.2.0)
@@ -17884,9 +17884,9 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
 
   file:my-scope/hello-world(react@18.2.0):
-    resolution: {directory: my-scope/hello-world, type: directory}
-    id: file:my-scope/hello-world
-    name: '@test-organization-bit/my-scope.hello-world'
+    resolution: {directory: remote-scope/hello-world, type: directory}
+    id: file:remote-scope/hello-world
+    name: '@test-organization-bit/remote-scope.hello-world'
     peerDependencies:
       react: '*'
     peerDependenciesMeta:
